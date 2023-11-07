@@ -80,6 +80,10 @@ class TransformFragment : Fragment() {
             R.drawable.avatar_14,
             R.drawable.avatar_15,
             R.drawable.avatar_16,
+            R.drawable.f1,
+            R.drawable.f2,
+            R.drawable.f5,
+            R.drawable.f6
         )
 
         override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): TransformViewHolder {
